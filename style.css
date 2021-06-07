@@ -1,0 +1,26 @@
+.background
+{
+	background-image: url("https://th.bing.com/th/id/OIP.-oFvSjGfPyxQn3yl-t__vgHaHI?pid=ImgDet&rs=1");
+	background-position: center;
+	background-size: cover;
+}
+#my_canvas
+{
+	border-width: 10px;
+	background-color: ghostwhite;
+	border-style: ridge;
+}
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color:black;
+}
